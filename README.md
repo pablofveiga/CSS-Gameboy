@@ -1,9 +1,5 @@
 # CSS Gameboy
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 I did this Gameboy in April 2014 after a boring lecture about Jakob Nielsen,  accesibility and usability. The lecture was not bad at all, but it was the third time I assisted, because I had to do that.
 
 In that time, most of the CSS3 rules were not an standard and others not even existed. 
